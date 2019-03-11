@@ -1,6 +1,6 @@
-# IOT-ESP8266-Internet-of-Things-
-Upload data to **The Cloud** very easily using any ESP8266 board and my sketch
-Internet of Things (IoT) using an ESP8266 (Thingspeak Live Demo)
+# IOT ESP8266 Internet of Things  
+Upload data to **The Cloud** very easily using any ESP8266 board and my sketch  
+Internet of Things (IoT) using an ESP8266 (Thingspeak Live Demo)  
 
 ## See video at https://www.youtube.com/RalphBacon video #138
 **(Direct link to video: https://youtu.be/XI_2eypZDwc)**
@@ -13,10 +13,12 @@ There are graphs, and widgets and you can even see all the data on your phone wi
 
 There's a lot more I need to do with this project so stay tuned for further updates!
 
-=============================================
-LINKS     LINKS     LINKS     LINKS     LINKS
-=============================================
-(Some of these links may be affiliate links and can help my channel at no cost to you)
+\=============================================  
+```
+LINKS     LINKS     LINKS     LINKS     LINKS  
+```
+\=============================================  
+(Some of these links may be affiliate links and can help my channel at no cost to you)  
 
 ESP8266.h WiFi library (complete) on my GitHub  
 (just so you have the same version as used in the demo):  
